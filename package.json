@@ -1,0 +1,20 @@
+{
+  "name": "flicker-film-stats",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server",
+    "postinstall": "node deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lizannbrowne/flicker-film-stats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lizannbrowne/flicker-film-stats/issues"
+  },
+  "homepage": "https://github.com/lizannbrowne/flicker-film-stats#readme"
+}
