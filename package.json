@@ -7,6 +7,10 @@
     "start": "node server",
     "postinstall": "node deploy"
   },
+  "engines": {
+    "npm" : "~6.1.0" 
+   },
+
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lizannbrowne/flicker-film-stats.git"
